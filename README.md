@@ -1,6 +1,6 @@
 # Project description
 
-A Weather app that makes use of OpenWeatherMap API to fetch current weather data using zip-codes
+A Weather app that makes use of OpenWeatherMap API to fetch current weather data using zip-codes, the app is working for US zip-codes only at this moment
 
 # Usage
 
